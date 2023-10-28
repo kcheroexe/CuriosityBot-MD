@@ -20,7 +20,7 @@ global.prems = []
 
 global.packname = '× Stickers V2\ngithub.com/CuriosityBot-MD\n\n× Script:\ngithub.com/AzamiJs/CuriosityBot-MD'
 global.author = ' C\n U\n R\n  I\n O\n S\n  I\n T\n Y'
-global.wm = '© CuriosityBot-MD'
+global.wm = '© BenjaExeBot-MD'
 global.wm2 = '𝗖𝗎𝗋𝗂𝗈𝗌𝗂𝗍𝗒 : 𝗕𝗈𝗍'
 global.azami = 'Azami'
 global.cb = 'CuriosityBot-MD'
